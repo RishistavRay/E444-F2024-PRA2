@@ -1,0 +1,6 @@
+Flask
+Flask-Bootstrap
+Flask-Mail
+Flask-SQLAlchemy
+Flask-WTF
+Flask-Moment
